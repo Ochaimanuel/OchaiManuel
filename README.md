@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to collaborate on Frontend and Backend web development
-- 📫 How to reach me: Facebook@ ochai abah emmz. Instagram@ Ochaimanuel_   Twitter@ Ochai Manuel
+- 📫 How to reach me: Facebook@ ochai abah emmz. Instagram@ Ochaimanuel_   Twitter@ ManuelOchai
 
 <!---
 Ochaimanuel/Ochaimanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
